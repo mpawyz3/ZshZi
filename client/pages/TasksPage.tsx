@@ -16,7 +16,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "../components/ui/select";
-import { Tabs } from "../components/ui/tabs";
+import { Tabs, TabsContent } from "../components/ui/tabs";
 import {
   CheckSquare,
   PlusCircle,
